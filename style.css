@@ -72,12 +72,13 @@
 
 .sobre p{
 display: flex;
+justify-content: center;
 }
 .sobre h2{
 text-align: center;
 }
-.sobre p{
-     justify-content: center;
+. {
+
 }
 .selfie{
     display: flex;
