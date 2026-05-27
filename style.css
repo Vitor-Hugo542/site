@@ -71,5 +71,18 @@
 }
 
 .sobre p{
-display: row;
+display: flex;
+}
+.sobre h2{
+text-align: center;
+}
+.sobre p{
+     justify-content: center;
+}
+.selfie{
+    display: flex;
+    justify-content: center;
+}
+.habilidades {
+    text-align: center;
 }
